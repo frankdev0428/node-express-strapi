@@ -1,410 +1,57 @@
-Contribution: 2021-01-21 20:00
+# 🚀 Getting started with Strapi
 
-Contribution: 2021-01-21 20:01
+Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
-Contribution: 2021-02-02 20:00
+### `develop`
 
-Contribution: 2021-02-28 20:00
+Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
 
-Contribution: 2021-02-28 20:01
+```
+npm run develop
+# or
+yarn develop
+```
 
-Contribution: 2021-03-06 20:00
+### `start`
 
-Contribution: 2021-03-07 20:00
+Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
 
-Contribution: 2021-03-07 20:01
+```
+npm run start
+# or
+yarn start
+```
 
-Contribution: 2021-03-07 20:02
+### `build`
 
-Contribution: 2021-03-28 20:00
+Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
 
-Contribution: 2021-03-28 20:01
+```
+npm run build
+# or
+yarn build
+```
 
-Contribution: 2021-04-04 20:00
+## ⚙️ Deployment
 
-Contribution: 2021-04-04 20:01
+Strapi gives you many possible deployment options for your project. Find the one that suits you on the [deployment section of the documentation](https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/deployment.html).
 
-Contribution: 2021-04-04 20:02
+## 📚 Learn more
 
-Contribution: 2021-04-27 20:00
+- [Resource center](https://strapi.io/resource-center) - Strapi resource center.
+- [Strapi documentation](https://docs.strapi.io) - Official Strapi documentation.
+- [Strapi tutorials](https://strapi.io/tutorials) - List of tutorials made by the core team and the community.
+- [Strapi blog](https://docs.strapi.io) - Official Strapi blog containing articles made by the Strapi team and the community.
+- [Changelog](https://strapi.io/changelog) - Find out about the Strapi product updates, new features and general improvements.
 
-Contribution: 2021-04-28 20:00
+Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/strapi). Your feedback and contributions are welcome!
 
-Contribution: 2021-05-05 20:00
+## ✨ Community
 
-Contribution: 2021-05-09 20:00
+- [Discord](https://discord.strapi.io) - Come chat with the Strapi community including the core team.
+- [Forum](https://forum.strapi.io/) - Place to discuss, ask questions and find answers, show your Strapi project and get feedback or just talk with other Community members.
+- [Awesome Strapi](https://github.com/strapi/awesome-strapi) - A curated list of awesome things related to Strapi.
 
-Contribution: 2021-05-09 20:01
+---
 
-Contribution: 2021-05-09 20:02
-
-Contribution: 2021-05-22 20:00
-
-Contribution: 2021-05-31 20:00
-
-Contribution: 2021-06-03 20:00
-
-Contribution: 2021-06-03 20:01
-
-Contribution: 2021-06-12 20:00
-
-Contribution: 2021-06-12 20:01
-
-Contribution: 2021-06-12 20:02
-
-Contribution: 2021-06-13 20:00
-
-Contribution: 2021-06-16 20:00
-
-Contribution: 2021-06-16 20:01
-
-Contribution: 2021-06-16 20:02
-
-Contribution: 2021-06-19 20:00
-
-Contribution: 2021-07-05 20:00
-
-Contribution: 2021-07-05 20:01
-
-Contribution: 2021-07-05 20:02
-
-Contribution: 2021-07-22 20:00
-
-Contribution: 2021-07-22 20:01
-
-Contribution: 2021-07-23 20:00
-
-Contribution: 2021-07-23 20:01
-
-Contribution: 2021-08-03 20:00
-
-Contribution: 2021-08-10 20:00
-
-Contribution: 2021-08-10 20:01
-
-Contribution: 2021-08-20 20:00
-
-Contribution: 2021-08-20 20:01
-
-Contribution: 2021-08-23 20:00
-
-Contribution: 2021-08-23 20:01
-
-Contribution: 2021-08-23 20:02
-
-Contribution: 2021-08-25 20:00
-
-Contribution: 2021-09-02 20:00
-
-Contribution: 2021-09-22 20:00
-
-Contribution: 2021-09-22 20:01
-
-Contribution: 2021-10-14 20:00
-
-Contribution: 2021-10-20 20:00
-
-Contribution: 2021-10-31 20:00
-
-Contribution: 2021-10-31 20:01
-
-Contribution: 2021-11-10 20:00
-
-Contribution: 2021-11-27 20:00
-
-Contribution: 2021-12-12 20:00
-
-Contribution: 2021-12-12 20:01
-
-Contribution: 2021-12-23 20:00
-
-Contribution: 2021-12-23 20:01
-
-Contribution: 2022-01-18 20:00
-
-Contribution: 2022-01-18 20:01
-
-Contribution: 2022-01-21 20:00
-
-Contribution: 2022-01-21 20:01
-
-Contribution: 2022-01-21 20:02
-
-Contribution: 2022-01-22 20:00
-
-Contribution: 2022-01-27 20:00
-
-Contribution: 2022-01-27 20:01
-
-Contribution: 2022-01-27 20:02
-
-Contribution: 2022-01-28 20:00
-
-Contribution: 2022-01-28 20:01
-
-Contribution: 2022-01-28 20:02
-
-Contribution: 2022-02-02 20:00
-
-Contribution: 2022-02-02 20:01
-
-Contribution: 2022-02-02 20:02
-
-Contribution: 2022-02-04 20:00
-
-Contribution: 2022-02-04 20:01
-
-Contribution: 2022-02-04 20:02
-
-Contribution: 2022-02-07 20:00
-
-Contribution: 2022-02-07 20:01
-
-Contribution: 2022-02-12 20:00
-
-Contribution: 2022-02-12 20:01
-
-Contribution: 2022-02-12 20:02
-
-Contribution: 2022-02-25 20:00
-
-Contribution: 2022-02-25 20:01
-
-Contribution: 2022-02-25 20:02
-
-Contribution: 2022-03-03 20:00
-
-Contribution: 2022-03-03 20:01
-
-Contribution: 2022-03-19 20:00
-
-Contribution: 2022-03-19 20:01
-
-Contribution: 2022-03-19 20:02
-
-Contribution: 2022-04-15 20:00
-
-Contribution: 2022-04-15 20:01
-
-Contribution: 2022-04-15 20:02
-
-Contribution: 2022-04-21 20:00
-
-Contribution: 2022-04-21 20:01
-
-Contribution: 2022-04-27 20:00
-
-Contribution: 2022-04-27 20:01
-
-Contribution: 2022-04-27 20:02
-
-Contribution: 2022-05-04 20:00
-
-Contribution: 2022-05-09 20:00
-
-Contribution: 2022-05-18 20:00
-
-Contribution: 2022-05-18 20:01
-
-Contribution: 2022-06-04 20:00
-
-Contribution: 2022-06-04 20:01
-
-Contribution: 2022-06-04 20:02
-
-Contribution: 2022-06-08 20:00
-
-Contribution: 2022-06-08 20:01
-
-Contribution: 2022-06-16 20:00
-
-Contribution: 2022-06-16 20:01
-
-Contribution: 2022-06-16 20:02
-
-Contribution: 2022-06-20 20:00
-
-Contribution: 2022-06-20 20:01
-
-Contribution: 2022-06-20 20:02
-
-Contribution: 2022-07-19 20:00
-
-Contribution: 2022-07-26 20:00
-
-Contribution: 2022-07-26 20:01
-
-Contribution: 2022-07-26 20:02
-
-Contribution: 2022-08-06 20:00
-
-Contribution: 2022-08-07 20:00
-
-Contribution: 2022-08-07 20:01
-
-Contribution: 2022-09-08 20:00
-
-Contribution: 2022-09-08 20:01
-
-Contribution: 2022-09-28 20:00
-
-Contribution: 2022-09-28 20:01
-
-Contribution: 2022-09-28 20:02
-
-Contribution: 2022-10-06 20:00
-
-Contribution: 2022-10-14 20:00
-
-Contribution: 2022-10-14 20:01
-
-Contribution: 2022-10-14 20:02
-
-Contribution: 2022-10-30 20:00
-
-Contribution: 2022-10-30 20:01
-
-Contribution: 2022-10-30 20:02
-
-Contribution: 2022-11-03 20:00
-
-Contribution: 2022-11-03 20:01
-
-Contribution: 2022-11-03 20:02
-
-Contribution: 2022-11-15 20:00
-
-Contribution: 2022-11-15 20:01
-
-Contribution: 2022-11-15 20:02
-
-Contribution: 2022-12-03 20:00
-
-Contribution: 2022-12-03 20:01
-
-Contribution: 2022-12-09 20:00
-
-Contribution: 2022-12-30 20:00
-
-Contribution: 2022-12-30 20:01
-
-Contribution: 2022-12-31 20:00
-
-Contribution: 2022-12-31 20:01
-
-Contribution: 2022-12-31 20:02
-
-Contribution: 2023-01-11 20:00
-
-Contribution: 2023-01-11 20:01
-
-Contribution: 2023-01-25 20:00
-
-Contribution: 2023-02-13 20:00
-
-Contribution: 2023-02-13 20:01
-
-Contribution: 2023-03-06 20:00
-
-Contribution: 2023-03-08 20:00
-
-Contribution: 2023-03-08 20:01
-
-Contribution: 2023-03-10 20:00
-
-Contribution: 2023-04-06 20:00
-
-Contribution: 2023-04-06 20:01
-
-Contribution: 2023-04-11 20:00
-
-Contribution: 2023-04-11 20:01
-
-Contribution: 2023-04-11 20:02
-
-Contribution: 2023-04-25 20:00
-
-Contribution: 2023-05-04 20:00
-
-Contribution: 2023-05-04 20:01
-
-Contribution: 2023-05-04 20:02
-
-Contribution: 2023-06-16 20:00
-
-Contribution: 2023-06-18 20:00
-
-Contribution: 2023-06-18 20:01
-
-Contribution: 2023-06-18 20:02
-
-Contribution: 2023-06-23 20:00
-
-Contribution: 2023-06-23 20:01
-
-Contribution: 2023-06-26 20:00
-
-Contribution: 2023-06-26 20:01
-
-Contribution: 2023-06-28 20:00
-
-Contribution: 2023-06-28 20:01
-
-Contribution: 2023-06-28 20:02
-
-Contribution: 2023-07-13 20:00
-
-Contribution: 2023-07-13 20:01
-
-Contribution: 2023-07-13 20:02
-
-Contribution: 2023-07-23 20:00
-
-Contribution: 2023-07-23 20:01
-
-Contribution: 2023-07-25 20:00
-
-Contribution: 2023-07-25 20:01
-
-Contribution: 2023-08-06 20:00
-
-Contribution: 2023-08-11 20:00
-
-Contribution: 2023-08-11 20:01
-
-Contribution: 2023-08-19 20:00
-
-Contribution: 2023-08-19 20:01
-
-Contribution: 2023-08-24 20:00
-
-Contribution: 2023-08-24 20:01
-
-Contribution: 2023-08-25 20:00
-
-Contribution: 2023-08-25 20:01
-
-Contribution: 2023-09-01 20:00
-
-Contribution: 2023-09-05 20:00
-
-Contribution: 2023-09-11 20:00
-
-Contribution: 2023-09-14 20:00
-
-Contribution: 2023-09-14 20:01
-
-Contribution: 2023-09-18 20:00
-
-Contribution: 2023-09-18 20:01
-
-Contribution: 2023-09-22 20:00
-
-Contribution: 2023-09-22 20:01
-
-Contribution: 2023-10-01 20:00
-
-Contribution: 2023-10-01 20:01
-
-Contribution: 2023-10-06 20:00
-
+<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
